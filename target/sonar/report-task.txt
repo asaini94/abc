@@ -1,0 +1,6 @@
+projectKey=com.stackroute:syscop
+serverUrl=http://localhost:9000
+serverVersion=7.6.0.21501
+dashboardUrl=http://localhost:9000/dashboard?id=com.stackroute%3Asyscop
+ceTaskId=AWl8GyzeLRGxdJWr17TW
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWl8GyzeLRGxdJWr17TW

@@ -1,0 +1,8 @@
+io/agent/plugin/AgentJar$Directory.class
+io/agent/plugin/ManifestTransformer.class
+io/agent/plugin/AgentDependencies$ExpectedDependency.class
+io/agent/plugin/AgentDependencies$1.class
+io/agent/plugin/agentMojo.class
+io/agent/plugin/JarFileNames.class
+io/agent/plugin/AgentJar.class
+io/agent/plugin/AgentDependencies.class

@@ -1,0 +1,5 @@
+io/agent/hooks/HttpContext.class
+io/agent/collectors/JmxCollector.class
+io/agent/hooks/ServletHook.class
+io/agent/hooks/HttpContext$Key.class
+io/agent/hooks/JdbcHook.class

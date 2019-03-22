@@ -1,0 +1,4 @@
+io/agent/agent/agent.class
+io/agent/agent/ClassLoaderCache.class
+io/agent/agent/JarFiles.class
+io/agent/agent/PerDeploymentClassLoader.class
